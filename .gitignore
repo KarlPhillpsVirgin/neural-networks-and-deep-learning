@@ -1,7 +1,7 @@
 *~
 *.org
 *.pem
-*.pkl
+*.pk
 *.pyc
 .DS_Store
 loc.py
